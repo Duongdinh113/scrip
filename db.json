@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Product C",
+      "price": 300
+    }
+  ],
+  "projects": [
+    {
+      "name": "Dự án này vừa update",
+      "author": "Datlt34",
+      "id": "164837dd-6afb-4d3a-b92f-3ca9f4f701ff"
+    },
+    {
+      "id": "e0ab40a0-d3f8-40c2-94f5-2afd9dae999e",
+      "name": "Wine - Coteaux Du Tricastin Ac",
+      "description": "etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus",
+      "imageURL": "http://dummyimage.com/300x114.jpg/dddddd/000000"
+    },
+    {
+      "id": "617e00e4-1fbb-4c29-808a-4bfdac2f93c9",
+      "name": "Orange - Blood",
+      "description": "luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea",
+      "imageURL": "http://dummyimage.com/300x199.jpg/dddddd/000000"
+    }
+  ],
+  "users": [
+    {
+      "email": "Datlt2306@gmail.com",
+      "password": "$2a$10$qWDD7WX96JNmaQJpta5g2.cs3kRTlpQUR7D71Q6jw58NQPnmKZqRy",
+      "id": 1
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$GADHrdXyRE6aalOeIDDKFOYNoU4KCx7/3YNTaiJ1148V6oGQeP906",
+      "id": 2
+    },
+    {
+      "email": "a@gmail.com",
+      "password": "$2a$10$9qzz.I1qipKaHM2GImMf5.a8BJRgTHQ6FP4OoUkBZ7/scWQ3hcmbq",
+      "id": 3
+    }
+  ]
+}
